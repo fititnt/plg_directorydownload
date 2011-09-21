@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="1.6" type="plugin" group="content">
+<extension 
+    version="1.6" 
+    type="plugin" 
+    group="content"
+    >
     <name>plg_directorydownload</name>
     <author>Emerson Rocha Luiz</author>
     <creationDate>Jul 2011</creationDate>
@@ -13,6 +17,7 @@
         <filename plugin="directorydownload">directorydownload.php</filename>
         <filename>index.html</filename>
         <filename>readme.txt</filename>
+        <filename>license.txt</filename>
         <folder>language</folder>
     </files>
     <languages folder="language">

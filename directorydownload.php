@@ -1,8 +1,9 @@
 <?php
 /**
- * Emerson Rocha Luiz { emerson@webdesign.eng.br - http://fititnt.org }
- * Copyright (C) 2005 - 2011 Webdesign Assessoria em Tecnologia da Informacao.
- * GPL3
+ * @package         mod_directorydownload
+ * @author          Emerson Rocha Luiz ( emerson@webdesign.eng.br - http://fititnt.org )
+ * @copyright       Copyright (C) 2005 - 2011 Webdesign Assessoria em Tecnologia da Informacao.
+ * @license         GNU General Public License version 3. See license.txt
  */
 defined('_JEXEC') or die;
 
